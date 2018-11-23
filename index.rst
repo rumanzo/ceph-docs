@@ -14,6 +14,7 @@
    bench
    bluestore
    cephfs
+   cephiscsi
    cpu_and_mem
    disks
    how-it-works
