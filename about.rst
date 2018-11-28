@@ -22,3 +22,4 @@ http://ceph-docs.readthedocs.io
 * Maksim Shchuplov <shchuplov@gmail.com>
 * Vitaliy Filippov <vitalif@mail.ru>
 * Коренберг Марк <socketpair@gmail.com>
+* Алексей Костин <rumanzo@yandex.ru>
